@@ -12,7 +12,7 @@
 
   @font-face {
     font-family: 'Cilok';
-    src: url('../public/Cilok\ There.otf');
+    src: url('/public/Cilok\ There.otf');
   }
 
   .Cilok {
