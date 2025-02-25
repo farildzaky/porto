@@ -10,34 +10,6 @@
 }
 
 
-  
-  @font-face {
-    font-family: 'Stardom';
-    src: url('../fonts/Stardom-Regular.woff2') format('woff2'),
-         url('../fonts/Stardom-Regular.woff') format('woff'),
-         url('../public/Stardom-Regular.ttf') format('truetype');
-    font-weight: 400;
-    font-display: swap;
-    font-style: normal;
-  }
-  
-
-
-  .Stardom {
-    font-family: Stardom;
-  }
-
-    @font-face {
-    font-family: 'Boxing';
-    src: url('../fonts/Boxing-Regular.woff2') format('woff2'),
-         url('../fonts/Boxing-Regular.woff') format('woff'),
-         url('../public/Boxing-Regular.otf') format('truetype');
-    font-weight: 400;
-    font-display: swap;
-    font-style: normal;
-  }
-
-
   @font-face {
     font-family: 'Cilok';
     src: url('../public/Cilok\ There.otf');
